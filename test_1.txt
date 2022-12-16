@@ -1,0 +1,10 @@
+CFG: v1
+Start: S
+Words: a & aa & aba & abab & abba & abababa
+--BEGIN--
+-> S AA
+-> S a
+-> A AB
+-> A a
+-> B b
+--END--

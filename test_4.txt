@@ -1,0 +1,18 @@
+CFG: v1
+Start: S
+Words: d & dcab & abbbbbb & abc & abab & dabb & abababa & abb
+--BEGIN--
+-> S AB
+-> S a
+-> A AB
+-> S DA
+-> S DD
+-> B BB
+-> C c
+-> C CB
+-> C AB
+-> D CA
+-> D d
+-> B b
+-> A a
+--END--
