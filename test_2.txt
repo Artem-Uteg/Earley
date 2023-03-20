@@ -1,0 +1,14 @@
+CFG: v1
+Start: S
+Words: abc & abbbbbbc & abac & abcab & abcba & acbabcaba
+--BEGIN--
+-> S AB
+-> S AC
+-> S a
+-> A AB
+-> A a
+-> B b
+-> B BC
+-> B AC
+-> C c
+--END--

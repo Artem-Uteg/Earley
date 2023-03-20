@@ -1,0 +1,26 @@
+CFG: v1
+Start: S
+Words: kd & dcab & abbbbbb & abldc & abab & kdabb & abababa & abb & kolyakolya
+--BEGIN--
+-> S AA
+-> S a
+-> A AB
+-> A KC
+-> C AD
+-> A l
+-> S DA
+-> S DD
+-> B BB
+-> D DA
+-> E e
+-> K k
+-> C o
+-> C c
+-> C CB
+-> C AB
+-> D y
+-> D CA
+-> D d
+-> B b
+-> A a
+--END--
